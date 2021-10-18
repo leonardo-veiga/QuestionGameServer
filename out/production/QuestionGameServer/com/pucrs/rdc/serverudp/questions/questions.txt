@@ -1,0 +1,101 @@
+1001
+Qual o significado de TCP?
+Transfer Control Protocol;Transmission Control Protocol;Transfer Character Protocol;Transmission Character Protocol
+Transmission Control Protocol
+1
+|-|
+1002
+Qual destes não é uma camada no modelo TCP/IP?
+Application;Transmission;Internet;Network
+Transmission
+1
+|-|
+1003
+Qual destes não é um dos protocolos da camada de aplicação?
+DNS;FTP;SMTP;FNP
+FNP
+1
+|-|
+1004
+Which of the TCP/IP model layers is responsible for breaking down the message into packets?
+Network;Application;Transport;Internet
+Transport
+1
+|-|
+1005
+HTTP stands for..
+Hyper Technology Transmission Piece;Hypertext Transfer Protocol;Hypertext Talking Package;Hypertext Transfer Program
+Hypertext Transfer Protocol
+1
+|-|
+1006
+Which protocol would you use to transfer files?
+FTP;SMTP;POP3;HTTP
+FTP
+1
+|-|
+1007
+What is TCP used for?
+To send information across the internet in packets;To ensure that information is sent to the correct computer;To send mail across the internet;To transmit webpages across the internet
+To send information across the internet in packets
+2
+|-|
+1008
+Which of these are mail protocols?
+SMTP and POP;TCP and FTP;FTP and SMTP;POP and IP
+SMTP and POP
+2
+|-|
+1009
+Which protocol is used to send packets?
+IP;FTP;SMTP;TCP
+IP
+2
+|-|
+1010
+Which are not one of the application layer protocols?
+DNS;FTP;SMTP;FNP
+FNP
+2
+|-|
+1011
+UDP is called a _______________ transport protocol.
+connectionless, reliable;connection-oriented, unreliable;connectionless, unreliable;none of the above
+connectionless, unreliable
+2
+|-|
+1012
+UDP is an acronym for _______.
+User Delivery Protocol;User Datagram Procedure;User Datagram Protocol;none of the above
+User Datagram Protocol
+2
+|-|
+1013
+The ports ranging from 49,152 to 65,533 can be used as temporary or private port numbers. They are called the ________ ports.
+Well-known;Registered;Dynamic;None of the above
+Dynamic
+3
+|-|
+1014
+UDP and TCP are both _______ layer protocols.
+Data link;Network;Transport;None of the above
+Transport
+3
+|-|
+1015
+UDP needs the _______ address to deliver the user datagram to the correct application process.
+Port;Application;Internet;None of the above
+Port
+3
+|-|
+1016
+Which of the following does UDP guarantee?
+Congestion control;Connection-oriented delivery;Flow control;None of the above
+None of the above
+3
+|-|
+1017
+UDP packets are called __________.
+User datagrams;Segments;Frames;None of the above
+User datagrams
+3
